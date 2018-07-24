@@ -1,0 +1,19 @@
+*** PROJECT IDEAS ***
+1. Blockchain in Golang, focus on chain agreement across distributed systems
+2. Raspberry Pi operating system
+	a. LFS build using Yocto Project to construct
+	b. From ground up, everything in OS
+3. Ragnarok game
+	a. focus on initial planning stages (2D vs. 3D visuals, gameplay style, scope of RPG)
+4. Machine learning algorithm training to determine best time of year to buy houses based off of current market prices
+	a. Do a web crawl to get prices of houses in different areas
+	b. Write Python script that would display prices on map, look into Google Maps API
+5. Tensorflow, Caffe tutorials
+6. Raspberry Pi Git server
+7. Raspberry Pi VPN server to SSH into from external system
+8. Setting up inventory app with node.js server for request handling as well
+9. Gwent Android card game
+10. 
+
+**Send emails to Tuck and Zhou
+
