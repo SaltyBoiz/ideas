@@ -1,3 +1,7 @@
+First, and foremost:
+
+int main() {}
+
 *** PROJECT IDEAS ***
 1. Blockchain in Golang, focus on chain agreement across distributed systems
 2. Raspberry Pi operating system
@@ -8,12 +12,14 @@
 4. Machine learning algorithm training to determine best time of year to buy houses based off of current market prices
 	a. Do a web crawl to get prices of houses in different areas
 	b. Write Python script that would display prices on map, look into Google Maps API
-5. Tensorflow, Caffe tutorials
+5. Tensorflow, Caffe tutorials to build into ML program
 6. Raspberry Pi Git server
 7. Raspberry Pi VPN server to SSH into from external system
 8. Setting up inventory app with node.js server for request handling as well
 9. Gwent Android card game
-10. 
-
-**Send emails to Tuck and Zhou
+10.Google doc-like application
+11.CPU simulation - scope TBD
+12. CPU simulation with GBA CPU used as reference, end goal to load ROM
+13. Compiler for Python, interpreter for Lisp in C++
+14. ISA design for CPU sim, may build off of ISA from GBA CPU  
 
